@@ -1,4 +1,4 @@
 include:
   - board: nice_nano_v2
-    shield: iqk45n
+    shield: iqk45
     snippet: studio-rpc-uart
