@@ -1,4 +1,4 @@
 include:
-  - board: nrfmicro_13
+  - board: nrfmicro
     shield: iqk45
     snippet: studio-rpc-uart
